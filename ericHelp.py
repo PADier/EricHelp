@@ -17,5 +17,3 @@ operandInput = input("Enter a operation: ")
 
 sum(firstInt, secondInt)
 calculate(firstInt, secondInt, operandInput)
-
-test
