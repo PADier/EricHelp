@@ -1,5 +1,3 @@
-
-
 def sum(x, y):
     output = int(x) + int(y) 
     print(output) 
